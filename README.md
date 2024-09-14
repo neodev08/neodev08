@@ -1,5 +1,7 @@
-# Juan Carlos Gutierrez (Software Engineer)
+# Juan Carlos Gutierrez
 ![Juan Carlos Gutierrez imagen](https://github.com/neodev08/neodev08/blob/main/imgjcg.png)
+## Portafolio
+### (Software Engineer)
 - 👋 Hi, I’m @neodev08
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
