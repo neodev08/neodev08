@@ -2,7 +2,7 @@
 ![Juan Carlos Gutierrez imagen](./assets/JuanCarlosGutierrez.png)
 ## Portafolio
 ### Software Engineer
-'' Sigueme en mis redes sociales''
+### Sigueme en mis redes sociales
 [![Facebook](./assets/facebook.png)](https://www.facebook.com/profile.php?id=61564960754804)
 [![Instagram](./assets/instagram.png)](https://x.com/neodev08)
 [![X](./assets/twitter.png)](https://instagram.com/neodev08)
