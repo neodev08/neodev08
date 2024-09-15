@@ -8,7 +8,7 @@
 [![X](./assets/twitter.png)](https://instagram.com/neodev08)
 [![Twitch](./assets/twitch.png)](https://www.twitch/neodev08)
 [![Tik Tok](./assets/tiktok.png)](https://www.tiktok.com/@neodev08)
-[![Youtube](./assets/youtube-logo.png)](https://www.youtube.com/@neodev08)
+[![Youtube](./assets/youtube.png)](https://www.youtube.com/@neodev08)
 
 - 👋 Hi, I’m @neodev08
 - 👀 I’m interested in ...
